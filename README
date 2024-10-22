@@ -35,24 +35,12 @@ Screenshots
 
 A snapshot of the cube in action.
 
+space  - pause
+    f      - fill
+
 Future Improvements
 Add lighting and shading effects.
 Implement support for 3D objects other than cubes.
 Improve performance for larger scenes.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
-This program will display a rotating cube making use of the rotation matrix
-
-commands:
-    $ venv\bin\activate                 #activate venv environment (unix systems)
-    $ venv\Scripts\activate             #activate venv environment (windows)
-    $ path\to\venv\bin\activate
-    $ deactivate                        #turn off venv 
-    $ pip install -r requirements.txt   #install dependancies
-    $ python app                        #run application
-
-    space  - pause
-    f      - fill
