@@ -1,7 +1,7 @@
 # Python Rotating Cube
 A simple 3D rotating cube visualization built using Python and Pygame. This project demonstrates how to render a 3D object and apply basic transformations such as rotation in real-time.
 
-Features
+## Features
 3D cube rendered using 2D projections.
 Real-time rotation along different axes.
 Adjustable rotation speed and angle.
@@ -36,7 +36,7 @@ Screenshots
 A snapshot of the cube in action.
 
 space  - pause
-    f      - fill
+f      - fill
 
 Future Improvements
 Add lighting and shading effects.
