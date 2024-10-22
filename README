@@ -1,3 +1,49 @@
+# Python Rotating Cube
+A simple 3D rotating cube visualization built using Python and Pygame. This project demonstrates how to render a 3D object and apply basic transformations such as rotation in real-time.
+
+Features
+3D cube rendered using 2D projections.
+Real-time rotation along different axes.
+Adjustable rotation speed and angle.
+Interactive keyboard controls to modify the cube’s rotation.
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/Allenreinoso28/Python-Rotating-Cube.git
+cd Python-Rotating-Cube
+Install required dependencies:
+
+Ensure you have Python installed. Install Pygame by running:
+
+bash
+Copy code
+pip install pygame
+Usage
+Run the script to start the rotating cube visualization:
+
+bash
+Copy code
+python rotating_cube.py
+Controls
+Use the arrow keys to control the cube's rotation:
+Up/Down Arrows: Rotate around the X-axis.
+Left/Right Arrows: Rotate around the Y-axis.
+Press Esc to exit the program.
+Screenshots
+
+A snapshot of the cube in action.
+
+Future Improvements
+Add lighting and shading effects.
+Implement support for 3D objects other than cubes.
+Improve performance for larger scenes.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
 This program will display a rotating cube making use of the rotation matrix
 
 commands:
